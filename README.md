@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 \
 
 ## Portfolio
-😶‍🌫️ Under construction\
+😶‍🌫️ Under construction
 
 ## Get in touch
-[📫 Gmail](karen.chung.924@gmail.com)\
+[📫 Gmail](karen.chung.924@gmail.com)
