@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🍂 Year-3 Computer Science student studying at [HKUST](https://hkust.edu.hk/). 
-🍂 Experienced in Unity Game development, currently interested in web developing and cybersecurity things
-🍂 Based in Hong Kong
+🍂 Year-3 Computer Science student studying at [HKUST](https://hkust.edu.hk/)\
+🍂 Experienced in Unity Game development, currently interested in web development and cybersecurity things\
+🍂 Based in Hong Kong\
