@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 😶‍🌫️ Under construction
 
 ## Get in touch
-📫 [Find me using email](mailto:karen.chung.924@gmail.com)
+📫 [Find me through email](mailto:karen.chung.924@gmail.com)
