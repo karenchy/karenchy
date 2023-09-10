@@ -1,4 +1,4 @@
-# ✨ Hello, Karen's here 👋🏻
+### ✨ Hello, Karen's here 👋🏻
 
 <!--
 **karenchy/karenchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 🍂 Experienced in Unity Game development, currently interested in web development and cybersecurity things\
 🍂 Based in Hong Kong\
 
-## Who 
+#### All about me
+
