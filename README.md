@@ -1,4 +1,4 @@
-### ✨ Hello, Karen's here 👋🏻
+### Hello, Karen's here 👋🏻
 
 <!--
 **karenchy/karenchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
