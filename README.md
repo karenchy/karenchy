@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 🍂 Based in Hong Kong\
 
 ## All about me
-
+\
 
 ## Experiences
-
+\
 
 ## Portfolio
 😶‍🌫️ Under construction\
 
 ## Get in touch
-[📫 Gmail](karen.chung.924@gmail.com)
+[📫 Gmail](karen.chung.924@gmail.com)\
