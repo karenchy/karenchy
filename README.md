@@ -19,5 +19,14 @@ Here are some ideas to get you started:
 🍂 Experienced in Unity Game development, currently interested in web development and cybersecurity things\
 🍂 Based in Hong Kong\
 
-#### All about me
+## All about me
 
+
+## Experiences
+
+
+## Portfolio
+😶‍🌫️ Under construction\
+
+## Get in touch
+[📫 Gmail](karen.chung.924@gmail.com)
