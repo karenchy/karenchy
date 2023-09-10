@@ -1,4 +1,4 @@
-### Hello, Karen's here 👋🏻
+### Hello, Karen's here 🤙🏻
 
 <!--
 **karenchy/karenchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 🍂 Year-3 Computer Science student studying at [HKUST](https://hkust.edu.hk/)\
 🍂 Experienced in Unity Game development, currently interested in web development and cybersecurity things\
-🍂 Based in Hong Kong\
+🍂 Based in Hong Kong
 
 ## Who am I?
-\
+✨ Tell you later
 
 ## Portfolio
 😶‍🌫️ Under construction
