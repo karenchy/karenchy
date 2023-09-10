@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 😶‍🌫️ Under construction
 
 ## Get in touch
-[📫 Gmail](karen.chung.924@gmail.com)
+📫 [Find me using email](mailto:karen.chung.924@gmail.com)
