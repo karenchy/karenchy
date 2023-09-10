@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 🍂 Experienced in Unity Game development, currently interested in web development and cybersecurity things\
 🍂 Based in Hong Kong\
 
-#### All about me
+## Who am I?
 \
 
-#### Experiences
-\
-
-##### Portfolio
+## Portfolio
 😶‍🌫️ Under construction
 
 ## Get in touch
