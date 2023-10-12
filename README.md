@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ✨ Tell you later
 
 ## Portfolio
-😶‍🌫️ [Under construction](https://karenchung.vercel.app/)
+😶‍🌫️ [Under construction]
 
 ## Get in touch
 📫 [Find me through email](mailto:karen.chung.924@gmail.com)
