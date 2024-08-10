@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🍂 Year-3 Computer Science student studying at [HKUST](https://hkust.edu.hk/)\
-🍂 Small potato, know-nothings
+🍂 Small potato, know-nothings\
 🍂 Based in Hong Kong
 
 ## Who am I?
