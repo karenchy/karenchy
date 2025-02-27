@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ✨ Tell you later
 
 ## Fun fact!
-⚡ I like drama and theater so much, current studying in a technical theater art course at HKUST
+⚡ I like drama and theater so much, current studying in a technical theater art course at HKUST\
 ⚡ I am current working in set designing for a student performance
 
 ## Portfolio
