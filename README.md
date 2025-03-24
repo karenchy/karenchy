@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🍂 Year-4 Computer Science student studying at [HKUST](https://hkust.edu.hk/)\
 🍂 Have some basic knowledge on data mining\
 🍂 Frontend developer for our Final Year Project (Cross-platform path generator mobile application)\
-🍂 Still discovering what is my fav direction in computer science
+🍂 Still discovering what is my fav direction in computer science (probably Frontend/UIUX)\
 🍂 Based in Hong Kong
 
 ## Who am I?
